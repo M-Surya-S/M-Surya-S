@@ -3,7 +3,6 @@
 - 👋 Hi, I’m Muhammad Surya Saniansyah  
 - 🎓 Third-year Information Systems student at Kalimantan Institute of Technology  
 - 💻 Interested in freelancing opportunities in web development  
-- 🌱 Currently learning Laravel and JavaScript  
 
 <h1> My Skills Include <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> </h1>
 
