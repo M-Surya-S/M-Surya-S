@@ -5,7 +5,7 @@
 - 💻 Interested in freelancing opportunities in web development  
 - 🌱 Currently learning Laravel and JavaScript  
 
-<h2> My Skills Include <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> </h2>
+<h1> My Skills Include <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> </h1>
 
 ### 💬 Languages
 <span>
